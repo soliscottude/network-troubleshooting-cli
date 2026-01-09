@@ -177,3 +177,5 @@ to:
 > **“If it fails, can I prove why?”**
 
 That mindset is the foundation of Cloud Support and DevOps work.
+
+make conflict
